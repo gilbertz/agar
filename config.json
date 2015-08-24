@@ -1,5 +1,5 @@
 {
-    "port": 3000,
+    "port": 4000,
     "foodMass": 1,
     "defaultPlayerMass": 10,
     "gameWidth": 5000,
